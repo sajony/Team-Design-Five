@@ -1,0 +1,129 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-family: arial, sans-serif;
+}
+.container{
+    width: 70%;
+    margin: auto;
+}
+header{
+    background-color: #D9D9D9;
+    min-height: 70px;
+}
+.logo-title{
+    background-color: #fff;
+    margin-bottom: 20px;
+    width: 40%;
+    transform: skew(-45deg, 0deg);
+    margin-left:-30px;
+}
+.logo-title h1{
+    margin: 0px 0px 0px 50px;
+    transform: skew(45deg, 0deg);
+    padding: 10px;
+    color: #7D7D7D;
+}
+.boxs{
+    margin: 20px 0px;
+}
+.box{
+    width: 33.33%;
+    float: left;
+    transition: .3s;
+}
+.box:hover{
+    box-shadow: 0px 0px 5px 2px #808080;
+}
+.box h1{
+    color:#42779D;
+    text-align: center;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+.box h2{
+    color:#7D7D7D;
+    text-align: center;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+.box p{
+    text-align: center;
+    font-size: 12px;
+    color: #7D7D7D;
+    width: 50%;
+    margin: auto;
+    
+}
+.img-box{
+    width: 100%;
+    text-align: center;
+    margin: 10px 0px;
+}
+.img-box-1 img{
+    width: 40%;
+    border: 5px solid #42779D;
+    border-radius: 100px 0px 100px 100px;
+    transition: .5s;
+}
+.img-box-1 img:hover{
+    border-radius: 100px 100px 0px 100px;
+}
+.img-box-2 img{
+    width: 40%;
+    border: 5px solid #A9BD74;
+    border-radius: 100px 0px 100px 100px;
+    transition: .5s;
+}
+.img-box-2 img:hover{
+    border-radius: 100px 100px 0px 100px;
+}
+.img-box-3 img{
+    width: 40%;
+    border: 5px solid #A7433D;
+    border-radius: 100px 0px 100px 100px;
+    transition: .5s;
+}
+.img-box-3 img:hover{
+    border-radius: 100px 100px 0px 100px;
+}
+.img-box-4 img{
+    width: 40%;
+    border: 5px solid #2CA18E;
+    border-radius: 100px 0px 100px 100px;
+    transition: .5s;
+}
+.img-box-4 img:hover{
+    border-radius: 100px 100px 0px 100px;
+}
+.img-box-5 img{
+    width: 40%;
+    border: 5px solid #C69645;
+    border-radius: 100px 0px 100px 100px;
+    transition: .5s;
+}
+.img-box-5 img:hover{
+    border-radius: 100px 100px 0px 100px;
+}
+.img-box-6 img{
+    width: 40%;
+    border: 5px solid #906778;
+    border-radius: 100px 0px 100px 100px;
+    transition: .5s;
+}
+.img-box-6 img:hover{
+    border-radius: 100px 100px 0px 100px;
+}
+
+
+
+
+
+
+
+
+
+
